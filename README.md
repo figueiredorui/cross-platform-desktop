@@ -4,9 +4,9 @@ Simple cross-platform desktop to demonstrate how .Net Core can be used in an Ele
 
 ## demos
 
-[Windows](https://github.com/figueiredorui/cross-platform-desktop/blob/master/dist/cross-platform-desktop%20Setup%201.0.0.exe)
+[Windows](https://raw.githubusercontent.com/figueiredorui/cross-platform-desktop/master/dist/cross-platform-desktop%20Setup%201.0.0.exe)
 
-[MacOs](https://github.com/figueiredorui/cross-platform-desktop/blob/master/dist/mac/cross-platform-desktop-1.0.0.dmg)
+[MacOs](https://raw.githubusercontent.com/figueiredorui/cross-platform-desktop/master/dist/mac/cross-platform-desktop-1.0.0.dmg)
 
 ## run
 
