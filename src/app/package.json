@@ -2,8 +2,9 @@
   "name": "cross-platform-desktop",
   "version": "1.0.0",
   "description": "cross-platform-desktop",
-  "author": "",
-  "repository": "",
+  "author": "rui",
+  "repository": "https://github.com/figueiredorui/cross-platform-desktop.git",
+  "license": "MIT",
   "main": "main.js",
   "devDependencies": {
     "electron": "^1.4.1",
@@ -13,6 +14,7 @@
     "angular": "^1.6.1"
   },
   "scripts": {
+    "postinstall": "install-app-deps",
     "start": "electron .",
     "dist": "build"
   },
