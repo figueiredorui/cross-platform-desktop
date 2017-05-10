@@ -2,7 +2,11 @@
 
 Simple cross-platform desktop to demonstrate how .Net Core can be used in an Electron application.
 
-## demos
+## Implementation detail
+
+https://scotch.io/@rui/how-to-build-a-cross-platform-desktop-application-with-electron-and-net-core
+
+## Demos
 
 [Windows](https://raw.githubusercontent.com/figueiredorui/cross-platform-desktop/master/dist/cross-platform-desktop%20Setup%201.0.0.exe)
 
